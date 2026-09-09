@@ -3,17 +3,17 @@ This is an App Lock application built using Flutter, only work for Android devic
 The project is of Flutter’s Method Channels to integrate native Android functionality and background services via MainActivity.kt. It utilizes the GetX state management library for reactive programming and state handling. The app uses the USAGE_STATS permission to monitor and manage app usage activities in real time.
 
 Key Features
-🔒 Lock selected applications with a secure PIN
-🚀 Lightweight and optimized for performance
-🛠️ Built using Flutter with native Android service support
-📊 Utilizes Android’s USAGE_STATS to monitor foreground apps
-🧠 Reactive and efficient architecture using GetX
-🎯 Designed for Android only
+ Lock selected applications with a secure PIN
+ Lightweight and optimized for performance
+ Built using Flutter with native Android service support
+ Utilizes Android’s USAGE_STATS to monitor foreground apps
+ Reactive and efficient architecture using GetX
+ Designed for Android only
 Recent Updates
-✅ Upgraded Flutter SDK and dependencies
-🎨 Improved UI and user experience
-🎥 Added demo video and images of the working application for better understanding
-🛑 Implemented stop-foreground functionality in background services
+ Upgraded Flutter SDK and dependencies
+ Improved UI and user experience
+ Added demo video and images of the working application for better understanding
+ Implemented stop-foreground functionality in background services
 Media
 ![210130756-4498aabd-cf84-4bc6-a777-64323f732d33](https://github.com/user-attachments/assets/5a85ab87-cced-42ff-8872-70696ff6645d)
 ![210130749-59f770c6-2304-489b-b56f-3533b8baa39d-2](https://github.com/user-attachments/assets/6a47f90d-c3a3-4182-82bd-a27d2a7e8eec)
